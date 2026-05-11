@@ -40,7 +40,7 @@ Predict and display the class of a single test image.
 
 ### Register Number:212223240013
 
-```
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
